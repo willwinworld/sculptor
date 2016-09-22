@@ -1,0 +1,9 @@
+# SMTP
+secret.py
+config.py
+
+# SQLite databases
+*.sqlite
+
+# Virtual environment
+venv
